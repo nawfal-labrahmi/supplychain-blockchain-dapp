@@ -1,0 +1,19 @@
+{
+  "name": "coffee-supply-chain-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain solution designed to control responsible coffee supply chain",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.13"
+  }
+}
